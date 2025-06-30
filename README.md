@@ -10,15 +10,7 @@
 - [Features](#features)
 - [Tech stack](#tech-stack)
 - [Running](#running)
-  - [Docker](#docker)
-  - [Non-Docker](#non-docker)
-- [Common installation issues](#common-installation-issues)
 - [Screenshots](#screenshots)
-- [Video](#video)
-- [Live demo](#live-demo)
-- [Feature requests/bug reports](#bugs)
-- [Updating from a previous version of myDrive](#updating)
-- [Known issues and future improvments](#known-issues)
 
 <span id="features"></span>
 
